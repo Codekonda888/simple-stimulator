@@ -9,6 +9,6 @@ Mit diesem Simulator kannst du die Größe und das Gewicht eines Menschen mit Sc
 
 
 
-Ich hatte einen komplett anderen Plan für dieses Projekt!* Ich wollte eine ganze Theaterbühne mit Vorhängen, Blumenvasen, Lichtern und einem außerirdischen Alien bauen. Leider hat mein Computer da nicht so ganz mitgespielt, weshalb das Licht und die Kamera verrückt gespielt haben. 
+Ich hatte einen komplett anderen Plan für dieses Projekt. Ich wollte eine ganze Theaterbühne mit Vorhängen, Blumenvasen, Lichtern und einem außerirdischen Alien bauen. Leider hat mein Computer da nicht so ganz mitgespielt, weshalb das Licht und die Kamera verrückt gespielt haben. 
 
-Aber als echter Programmierer gibt man nicht auf! Ich habe den Plan geändert und stattdessen diesen sauberen Menschen Simulator gebaut und der funktioniert jetzt gut. 
+Ich habe den Plan geändert und stattdessen diesen sauberen Menschen Simulator gebaut und der funktioniert jetzt gut. 
